@@ -1,0 +1,6 @@
+ Ecuador, con capital Quito tiene una poblacion de 17643054
+ Colombia, con capital Bogotá tiene una poblacion de 51152371
+ Perú, con capital Lima tiene una poblacion de 33050325
+ Venezuela, con capital Caracas tiene una poblacion de 28435940
+ Chile, con capital Santiago tiene una poblacion de 19116201
+ Bolivia, con capital La Paz tiene una poblacion de 11673021
